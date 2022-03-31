@@ -88,9 +88,8 @@ Share Alike 4.0.
 
 Please use the following to cite any of the supporting materials herein:
 
-Kroeger CM. Data and analysis code for manuscript: Alternate Day Fasting
-versus Calorie Restriction for Health Behavior: Randomized Clinical
-Trial. 2022. DOI: 10.5281/zenodo.6400587. [![DOI](https://zenodo.org/badge/476200394.svg)](https://zenodo.org/badge/latestdoi/476200394)
+Kroeger CM. Research materials and analysis code for manuscript: Alternate day fasting
+versus calorie restriction for health behavior: Randomized clinical trial. 2022. DOI: 10.5281/zenodo.6400587. [![DOI](https://zenodo.org/badge/476200394.svg)](https://zenodo.org/badge/latestdoi/476200394)
 
 ## Contact Information for Corresponding Author
 
